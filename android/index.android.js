@@ -42,7 +42,7 @@ export default class TestCodePush extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to Realm! This does indeed work!
+          Welcome to Realm! This does indeed work! yes it does!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
@@ -77,4 +77,4 @@ const styles = StyleSheet.create({
 
 TestCodePush = codePush(TestCodePush);
 
-AppRegistry.registerComponent('TestCodePush', () => TestCodePush);
+AppRegistry.registerComponent('ReactHistory', () => TestCodePush);
