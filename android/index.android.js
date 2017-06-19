@@ -42,7 +42,7 @@ export default class TestCodePush extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to Realmlmlhfhgfvgvyvy
+          Welcome to Realm! This does indeed work!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
